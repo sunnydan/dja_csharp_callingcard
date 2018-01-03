@@ -1,0 +1,9 @@
+C:\Users\Daniel\ComputerScience\CSharp\first_csharp\bin\MCD\Debug\netcoreapp1.1\first_csharp.deps.json
+C:\Users\Daniel\ComputerScience\CSharp\first_csharp\bin\MCD\Debug\netcoreapp1.1\first_csharp.runtimeconfig.json
+C:\Users\Daniel\ComputerScience\CSharp\first_csharp\bin\MCD\Debug\netcoreapp1.1\first_csharp.runtimeconfig.dev.json
+C:\Users\Daniel\ComputerScience\CSharp\first_csharp\bin\MCD\Debug\netcoreapp1.1\first_csharp.dll
+C:\Users\Daniel\ComputerScience\CSharp\first_csharp\bin\MCD\Debug\netcoreapp1.1\first_csharp.pdb
+C:\Users\Daniel\ComputerScience\CSharp\first_csharp\obj\MCD\Debug\netcoreapp1.1\first_csharp.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\ComputerScience\CSharp\first_csharp\obj\MCD\Debug\netcoreapp1.1\first_csharp.AssemblyInfo.cs
+C:\Users\Daniel\ComputerScience\CSharp\first_csharp\obj\MCD\Debug\netcoreapp1.1\first_csharp.dll
+C:\Users\Daniel\ComputerScience\CSharp\first_csharp\obj\MCD\Debug\netcoreapp1.1\first_csharp.pdb
